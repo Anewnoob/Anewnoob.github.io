@@ -4,7 +4,7 @@ I received the B.S. degree in software engineering from the University of Electr
 E-Mail: liliang2333@gmail.com; 
         474225654@qq.com;
         
-#Educational Background:
+# Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
 2018-Now : University of Electronic Science and Technology of China (UESTC)  Master
         
