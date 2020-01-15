@@ -22,3 +22,9 @@ Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 2015 The Second Prize Scholarship
 
 2014 The Second Prize Scholarship
+
+#Internships
+2016.7-2016.8 Beijing Hongbao Data Technology Co., Ltd. PHP backend development
+http://hbdatatech.com.cn/
+
+2017.2-2017.8 Beijing Shenzhou Green League Technology Co., Ltd. P Automated test development
