@@ -3,7 +3,7 @@ I received the B.S. degree in software engineering from the University of Electr
 
 E-Mail: liliang2333@gmail.com;  474225654@qq.com;
 
-Github:[https://github.com/Anewnoob](https://github.com/Anewnoob "Github").
+Github: [https://github.com/Anewnoob](https://github.com/Anewnoob "Github").
 
 # Selected Research
 [ICISCE 2019] Hydropower Generation Forecasting via Deep Neural Network
@@ -29,3 +29,8 @@ Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 http://hbdatatech.com.cn/
 
 2017.2-2017.8 Beijing Shenzhou Green League Technology Co., Ltd. P Automated test development
+
+# Project experience
+2016.4-2016.10 Design and implementation of smart socket end-to-end system
+
+2016.4-2016.5 Implementation based on Linux chat software
