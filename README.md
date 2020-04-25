@@ -12,6 +12,10 @@ CSDN: [https://blog.csdn.net/lagli2333](https://github.com/Anewnoob "CSDN")
 
 Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
+[IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs
+
+Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang, Jiahao Wang
+
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
 
