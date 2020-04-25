@@ -1,5 +1,5 @@
 # Basic information
-I received the B.S. degree in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018, and i'm now pursuing the M.S. degree in UESTC. My current research interests include machine learning, spatio-temporal data mining, super resolution, and deep generative models.
+I received the B.S. degree in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018, and i'm now pursuing the M.S. degree in UESTC. My current research interests include machine learning, spatio-temporal data mining, urban flow super resolution, and time series analysis.
 
 E-Mail: liliang2333@gmail.com;  474225654@qq.com;
 
