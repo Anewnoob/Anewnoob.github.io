@@ -5,7 +5,7 @@ E-Mail: liliang2333@gmail.com;  474225654@qq.com;
 
 Github: [https://github.com/Anewnoob](https://github.com/Anewnoob "Github").
 
-CSDN: [https://blog.csdn.net/lagli2333](https://github.com/Anewnoob "CSDN")
+CSDN: [https://blog.csdn.net/lagli2333](https://blog.csdn.net/lagli2333 "CSDN")
 
 # Selected Research
 [ICISCE 2019] Hydropower Generation Forecasting via Deep Neural Network
