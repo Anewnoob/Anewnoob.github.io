@@ -7,6 +7,8 @@ Github: [https://github.com/Anewnoob](https://github.com/Anewnoob "Github").
 
 CSDN: [https://blog.csdn.net/lagli2333](https://blog.csdn.net/lagli2333 "CSDN")
 
+ORCID: https://orcid.org/0000-0002-2686-497X
+
 # Selected Research
 [ICISCE 2019] Hydropower Generation Forecasting via Deep Neural Network
 
@@ -14,7 +16,11 @@ Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
 [IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs
 
-Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang, Jiahao Wang
+Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang and Jiahao Wang
+
+[SIGKDD 2020] Forecasting the Evolution of Hydropower Generation
+
+Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
