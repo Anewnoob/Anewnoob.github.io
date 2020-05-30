@@ -30,6 +30,8 @@ Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting
 # Reward
 2019 The Second Prize Scholarship
 
+2018 The First Prize Scholarship
+
 2016 The Third Prize Scholarship
 
 2015 The Second Prize Scholarship
