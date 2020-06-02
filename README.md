@@ -14,11 +14,11 @@ ORCID: https://orcid.org/0000-0002-2686-497X
 
 Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
-[IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs
+[IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs (accepatance rate: 592/4717=12.6%)
 
 Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang and Jiahao Wang
 
-[SIGKDD 2020] Forecasting the Evolution of Hydropower Generation
+[SIGKDD 2020] Forecasting the Evolution of Hydropower Generation (accepatance rate: 121/756=16.0%)
 
 Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
