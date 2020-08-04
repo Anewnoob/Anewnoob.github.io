@@ -22,6 +22,14 @@ Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang and Jiahao Wang
 
 Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
+# Other Research (on the way)
+
+Urban Flow Prediction via Neural ODEs and Multi-Factor Fusion
+
+Inferring High-Resolutional Urban Flow with Pervasive Internet of Mobile Things 
+
+A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations
+
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
 
