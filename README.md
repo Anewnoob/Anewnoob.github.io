@@ -24,11 +24,13 @@ Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting
 
 # Other Research (on the way)
 
-Urban Flow Prediction via Neural ODEs and Multi-Factor Fusion
+Urban Flow Prediction with Spatial-Temporal Neural ODEs (TRC)
 
-Inferring High-Resolutional Urban Flow with Pervasive Internet of Mobile Things 
+Inferring High-Resolutional Urban Flow with Pervasive Internet of Mobile Things (TII)
 
-A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations
+A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations (TII)
+
+Forecasting Reservoir Inflow via Recurrent Neural ODEs
 
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
