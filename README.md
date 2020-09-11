@@ -38,9 +38,13 @@ Forecasting Reservoir Inflow via Recurrent Neural ODEs
 2018-Now : University of Electronic Science and Technology of China (UESTC)  Master
         
 # Reward
+2019 Outstanding Graduate
+
 2019 The Second Prize Scholarship
 
 2018 The First Prize Scholarship
+
+2018 Excellent Student Cadre
 
 2016 The Third Prize Scholarship
 
