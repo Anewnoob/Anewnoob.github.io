@@ -28,7 +28,7 @@ DOI: [10.1145/3394486.3403337](10.1145/3394486.3403337)
 
 Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
-# Other Research (on the way)
+# Other Research (under view)
 
 Urban Flow Prediction with Spatial-Temporal Neural ODEs (TRC)
 
@@ -44,6 +44,8 @@ Forecasting Reservoir Inflow via Recurrent Neural ODEs
 2018-Now : University of Electronic Science and Technology of China (UESTC)  Master
         
 # Reward
+2020 National Scholarship
+
 2019 Outstanding Graduate
 
 2019 The Second Prize Scholarship
