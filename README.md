@@ -46,6 +46,8 @@ Forecasting Reservoir Inflow via Recurrent Neural ODEs
 # Reward
 2020 National Scholarship
 
+2020 The First Prize Scholarship
+
 2019 Outstanding Graduate
 
 2019 The Second Prize Scholarship
