@@ -12,31 +12,33 @@ ORCID: https://orcid.org/0000-0002-2686-497X
 # Selected Research
 [ICISCE 2019] Hydropower Generation Forecasting via Deep Neural Network
 
-DOI: [10.1109/icisce48695.2019.00071](10.1109/icisce48695.2019.00071)
+DOI: 10.1109/icisce48695.2019.00071
 
 Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
 [IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs (accepatance rate: 592/4717=12.6%)
 
-DOI: [10.24963/ijcai.2020/180](10.24963/ijcai.2020/180)
+DOI: 10.24963/ijcai.2020/180
 
 Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang and Jiahao Wang
 
 [SIGKDD 2020] Forecasting the Evolution of Hydropower Generation (accepatance rate: 121/756=16.0%)
 
-DOI: [10.1145/3394486.3403337](10.1145/3394486.3403337)
+DOI: 10.1145/3394486.3403337
 
 Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
-# Other Research (under view)
+[Transportation Research Part C] Urban Flow Prediction with Spatial-Temporal Neural ODEs 
 
-Urban Flow Prediction with Spatial-Temporal Neural ODEs (TRC)
+Fan Zhou, Liang Li, Kunpeng Zhang and Goce Trajcevski
+
+# Other Research (under view)
 
 Inferring High-Resolutional Urban Flow with Pervasive Internet of Mobile Things (TII)
 
 A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations (TII)
 
-Forecasting Reservoir Inflow via Recurrent Neural ODEs
+Forecasting Reservoir Inflow via Recurrent Neural ODEs (AAAI2021)
 
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
