@@ -17,21 +17,25 @@ DOI: 10.1145/3394486.3403337
 
 Fan Zhou, Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang and Qiao Liu
 
+
 [IJCAI-PRICAI 2020] Enhancing Urban Flow Maps via Neural ODEs (accepatance rate: 592/4717=12.6%)
 
 DOI: 10.24963/ijcai.2020/180
 
 Fan Zhou, Liang Li , Ting Zhong, Goce Trajcevski, Kunpeng Zhang and Jiahao Wang
 
+
 [Transportation Research Part C] Urban Flow Prediction with Spatial-Temporal Neural ODEs 
 
 Fan Zhou, Liang Li, Kunpeng Zhang and Goce Trajcevski
+
 
 [ICISCE 2019] Hydropower Generation Forecasting via Deep Neural Network
 
 DOI: 10.1109/icisce48695.2019.00071
 
 Liang Li , Fuming Yao, Ying Huang, Fan Zhou
+
 
 # Other Research (under view)
 
