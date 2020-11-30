@@ -39,7 +39,7 @@ Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
 # Other Research (under view)
 
-Inferring High-Resolutional Urban Flow with Pervasive Internet of Mobile Things (TII)
+Inferring High-Resolutional Urban Flow with Internet of Mobile Things (ICASSP)
 
 A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations (TII)
 
