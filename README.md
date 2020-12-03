@@ -11,6 +11,10 @@ ORCID: https://orcid.org/0000-0002-2686-497X
 
 # Selected Research
 
+[AAAI 2021] Forecasting Reservoir Inflow via Recurrent Neural ODEs (accepatance rate: 1,692/9,034=21%)
+
+Fan Zhou, Liang Li
+
 [SIGKDD 2020] Forecasting the Evolution of Hydropower Generation (accepatance rate: 121/756=16.0%)
 
 DOI: 10.1145/3394486.3403337
@@ -42,8 +46,6 @@ Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 Inferring High-Resolutional Urban Flow with Internet of Mobile Things (ICASSP)
 
 A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations (TII)
-
-Forecasting Reservoir Inflow via Recurrent Neural ODEs (AAAI2021)
 
 # Educational Background:
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
