@@ -1,5 +1,5 @@
 # Basic information
-I received the B.S. degree in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018, and i'm now pursuing the M.S. degree in UESTC. My current research interests include machine learning, spatio-temporal data mining, urban flow super resolution, and time series analysis.
+I received the B.S. degree in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018, and i'm now pursuing the M.S. degree in UESTC. My current research interests include neural ODEs, spatio-temporal data mining, urban flow super resolution, and time series analysis.
 
 E-Mail: liliang2333[AT]gmail.com;  474225654[AT]qq.com;
 
@@ -51,6 +51,9 @@ A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropowe
 2014-2018: University of Electronic Science and Technology of China (UESTC)  Bachelor
 
 2018-Now : University of Electronic Science and Technology of China (UESTC)  Master
+
+# Work:
+2021.7-#: Bytedance AILab (Beijing)
         
 # Reward
 2020 National Scholarship
