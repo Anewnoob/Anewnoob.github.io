@@ -9,6 +9,8 @@ CSDN: [https://blog.csdn.net/lagli2333](https://blog.csdn.net/lagli2333 "CSDN")
 
 ORCID: https://orcid.org/0000-0002-2686-497X
 
+Affiliation: University of Electronic Science and Technology of China,School of Information and Software Engineering
+
 # Selected Research
 
 [AAAI 2021] Forecasting Reservoir Inflow via Recurrent Neural ODEs (accepatance rate: 1,692/9,034=21%)
