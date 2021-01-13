@@ -58,6 +58,8 @@ A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropowe
 2021.7-#: Bytedance AILab (Beijing)
         
 # Reward
+2021 Goodix First Class Scholarship
+
 2020 National Scholarship
 
 2020 The First Prize Scholarship
