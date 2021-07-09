@@ -42,10 +42,12 @@ DOI: 10.1109/icisce48695.2019.00071
 
 Liang Li , Fuming Yao, Ying Huang, Fan Zhou
 
+[ICASSP2021] Inferring High-Resolutional Urban Flow with Internet of Mobile Things
+
+Fan zhou, Xing Jin, Liang Li
+
 
 # Other Research (under view)
-
-Inferring High-Resolutional Urban Flow with Internet of Mobile Things (ICASSP)
 
 A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropower Stations (TII)
 
@@ -58,6 +60,12 @@ A Deep Generative Model for Hydroelectricity Prediction in Large-Scale Hydropowe
 2021.7-#: Bytedance AILab (Beijing)
         
 # Reward
+2021 Outstanding Communist Party Member of the School of Information Software Engineering
+
+2021 Outstanding Graduate Student in Sichuan Province
+
+2021 Excellent graduate student of University of Electronic Science and Technology of China
+
 2021 Goodix First Class Scholarship
 
 2020 National Scholarship
