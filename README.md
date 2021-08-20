@@ -1,13 +1,15 @@
 # Basic information
 I received the B.S. degree in software engineering from the University of Electronic Science and Technology of China (UESTC) in 2018, and i'm now pursuing the M.S. degree in UESTC. My current research interests include neural ODEs, spatio-temporal data mining, urban flow super resolution, and time series analysis.
 
-E-Mail: liliang2333[AT]gmail.com;  474225654[AT]qq.com;
+E-Mail: liliang2333[AT]gmail.com;  474225654[AT]qq.com; liliang.uestc[AT]bytedance.com
 
 Github: [https://github.com/Anewnoob](https://github.com/Anewnoob "Github").
 
 CSDN: [https://blog.csdn.net/lagli2333](https://blog.csdn.net/lagli2333 "CSDN")
 
 ORCID: https://orcid.org/0000-0002-2686-497X
+
+Google scoolar: [Liang Li](https://scholar.google.com/citations?user=IqB8YiUAAAAJ&hl=zh-CN&authuser=1)
 
 Affiliation: University of Electronic Science and Technology of China,School of Information and Software Engineering
 
